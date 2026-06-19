@@ -242,8 +242,7 @@
 .hero-panel__media img {
   width: min(220px, 72%);
   height: auto;
-  filter: saturate(0.8) hue-rotate(-68deg) brightness(1.24) contrast(0.96)
-    drop-shadow(0 18px 30px rgba(70, 199, 181, 0.18));
+  filter: drop-shadow(0 18px 30px rgba(70, 199, 181, 0.18));
 }
 
 .hero-panel__content {
